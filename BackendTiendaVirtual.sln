@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendTiendaVirtual", "BackendTiendaVirtual.csproj", "{853724DA-212F-4E6E-80DF-7AC8CC1103BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{853724DA-212F-4E6E-80DF-7AC8CC1103BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853724DA-212F-4E6E-80DF-7AC8CC1103BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853724DA-212F-4E6E-80DF-7AC8CC1103BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853724DA-212F-4E6E-80DF-7AC8CC1103BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46E2651B-6721-46A4-96FC-3EF7204034DD}
+	EndGlobalSection
+EndGlobal
